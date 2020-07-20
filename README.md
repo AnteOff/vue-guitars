@@ -1,4 +1,5 @@
 # vue-basics-app
+A simple store where users can order Manson guitars
 
 ## Project setup
 ```
